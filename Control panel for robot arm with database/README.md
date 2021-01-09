@@ -51,7 +51,7 @@ The solution for that, after what I thought, is to do one function via PHP and e
 
 I have implemented it myself and I like it so whoever wants to use it informs me about that because it is the first effective function I implement in PHP :)
 
-And this is the function:
+And this is a some lines of function  WritingToDatabase :
 
     $sql = "INSERT INTO `direction_and_motor_values` (`date`,`Forwards`, `Left`, `Right`, `Backwards`, `motor_1`, `motor_2`, `motor_3`, `motor_4`, `motor_5`, `motor_6`) VALUES ('$date','$Forwards_value', '$Left_value', '$Right_value', '$Backwards_value', '$motor_1_value', '$motor_2_value', '$motor_3_value', '$motor_4_value', '$motor_5_value', '$motor_6_value');";
 
