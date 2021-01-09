@@ -4,7 +4,7 @@ This description contains many content for your benefit, and it's best to read i
 
 In this animation a sequence of site traffic and appearance on the response page and database for this project.
 
-![alt text](https://github.com/MohammadYAmmar/Robot-arm-with-a-camera/blob/main/Control%20panel%20for%20robot%20arm%20with%20database/GIF%20of%20the%20process%20from%20clicking%20to%20store%20data%20and%20appearing%20in%20response.gif"GIF of using the task")
+![alt text](https://github.com/MohammadYAmmar/Robot-arm-with-a-camera/blob/main/Control%20panel%20for%20robot%20arm%20with%20database/GIF%20of%20the%20process%20from%20clicking%20to%20store%20data%20and%20appearing%20in%20response.gif "GIF of using the task")
 
 Photo of the site:
 
