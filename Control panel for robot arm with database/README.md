@@ -7,25 +7,25 @@ In this animation a sequence of site traffic and appearance on the response page
 
 Photo of the site:
 
-![much-a image]() 
+![much-a image](https://github.com/MohammadYAmmar/Robot-arm-with-a-camera/blob/main/Control%20panel%20for%20robot%20arm%20with%20database/Pictures%20of%20the%20main%20page.png) 
 
 Photo of the Response site:
 
-![much-a image]() 
+![much-a image](https://github.com/MohammadYAmmar/Robot-arm-with-a-camera/blob/main/Control%20panel%20for%20robot%20arm%20with%20database/Pictures%20of%20the%20response%20page.png) 
 
 Photo of the structure in database:
 
-![much-a image]() 
+![much-a image](https://github.com/MohammadYAmmar/Robot-arm-with-a-camera/blob/main/Control%20panel%20for%20robot%20arm%20with%20database/Image%20for%20structure%20in%20phpMyAdmin.png) 
 
 Photo of the data in database:
 
-![much-a image]() 
+![much-a image](https://github.com/MohammadYAmmar/Robot-arm-with-a-camera/blob/main/Control%20panel%20for%20robot%20arm%20with%20database/Image%20for%20data%20in%20phpMyAdmin.png) 
 
 # Component Diagram of software 
 The purpose of a component diagram is to show the relationship between different components in a system by lucidchart website.
 I tried to do something simpler for what I implemented in the image and designed it through a template in a program draw.io
 
-![much-a image]() 
+![much-a image](https://github.com/MohammadYAmmar/Robot-arm-with-a-camera/blob/main/Control%20panel%20for%20robot%20arm%20with%20database/Image%20of%20component%20Diagram%20of%20software.png) 
 
 
 # DRY (Don't repeat yourself)
