@@ -1,9 +1,10 @@
 # Control panel for robot arm with database
 With my second training at the Smart Methods Company on the Internet of Things track, We start with the second task in the first project, which is a robotic arm that controls a camera. But the difference from the first one is that it is linked to the database with more details and methods that I like to add attached to this description :)
+This description contains many content for your benefit, and it's best to read it completely 📖
 
 In this animation a sequence of site traffic and appearance on the response page and database for this project.
 
-![alt text]( "GIF of ")
+![alt text](https://github.com/MohammadYAmmar/Robot-arm-with-a-camera/blob/main/Control%20panel%20for%20robot%20arm%20with%20database/GIF%20of%20the%20process%20from%20clicking%20to%20store%20data%20and%20appearing%20in%20response.gif"GIF of using the task")
 
 Photo of the site:
 
