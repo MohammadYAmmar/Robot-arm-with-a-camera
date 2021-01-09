@@ -33,8 +33,8 @@ I tried to do something simpler for what I implemented in the image and designed
 The definition from Wikipedia is: "a principle of software development aimed at reducing repetition of software patterns, replacing it with abstractions or using data normalization to avoid redundancy."
 
 I noticed that I have to repeat the following code in each line of the site buttons, which is 10, therefore, 11 lines are repeated with changing one letter (which will be stored in the database), which will lead to an increase of 110 lines  like that : 
-
-`if (isset($_POST['Right-submit'])) {
+`
+if (isset($_POST['Right-submit'])) {
     $sql = "INSERT INTO direction_and_motor_values (date,Forwards, Left, Right, Backwards, motor_1, motor_2, motor_3, motor_4, motor_5, motor_6) VALUES ('','', '', 'Right', '', '', '', '', '', '', '');";
     
     if ($conn->query($sql) === TRUE) {
