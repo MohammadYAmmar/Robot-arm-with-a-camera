@@ -35,7 +35,7 @@ I noticed that I have to repeat the following code in each line of the site butt
 
 `   //Right
     if (isset($_POST['Right-submit'])) {
-    $sql = "INSERT INTO `direction_and_motor_values` (date,Forwards, Left, Right, Backwards, motor_1, motor_2, motor_3, motor_4, motor_5, motor_6) VALUES ('','', '', 'Right', '', '', '', '', '', '', '');";
+    $sql = "INSERT INTO direction_and_motor_values (date,Forwards, Left, Right, Backwards, motor_1, motor_2, motor_3, motor_4, motor_5, motor_6) VALUES ('','', '', 'Right', '', '', '', '', '', '', '');";
     
     if ($conn->query($sql) === TRUE) {
       echo "New record created successfully";
@@ -53,7 +53,7 @@ I have implemented it myself and I like it so whoever wants to use it informs me
 
 And this is the function:
 
-`function WritingToDatabase($conn, $Forwards_value, $Left_value, $Right_value, $Backwards_value, $motor_1_value, $motor_2_value, $motor_3_value, $motor_4_value, $motor_5_value, $motor_6_value) {
+function WritingToDatabase($conn, $Forwards_value, $Left_value, $Right_value, $Backwards_value, $motor_1_value, $motor_2_value, $motor_3_value, $motor_4_value, $motor_5_value, $motor_6_value) {
     $date = date("Y/m/d h:i:sa");
     //To take the amount in the slider from 1 to 100
     $motor_1_value = $_POST["motor_1"];
