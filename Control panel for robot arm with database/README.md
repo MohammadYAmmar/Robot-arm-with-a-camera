@@ -1,4 +1,4 @@
-# Control panel for robot arm with database
+During second training at Smart Methods Company# Control panel for robot arm with database
 With my second training at the Smart Methods Company on the Internet of Things track, We start with the second task in the first project, which is a robotic arm that controls a camera. But the difference from the first one is that it is linked to the database with more details and methods that I like to add attached to this description :)
 This description contains many content for your benefit, and it's best to read it completely 📖
 
@@ -34,8 +34,7 @@ The definition from Wikipedia is: "a principle of software development aimed at 
 
 I noticed that I have to repeat the following code in each line of the site buttons, which is 10, therefore, 11 lines are repeated with changing one letter (which will be stored in the database), which will lead to an increase of 110 lines  like that : 
 
-`   //Right
-    if (isset($_POST['Right-submit'])) {
+`if (isset($_POST['Right-submit'])) {
     $sql = "INSERT INTO direction_and_motor_values (date,Forwards, Left, Right, Backwards, motor_1, motor_2, motor_3, motor_4, motor_5, motor_6) VALUES ('','', '', 'Right', '', '', '', '', '', '', '');";
     
     if ($conn->query($sql) === TRUE) {
