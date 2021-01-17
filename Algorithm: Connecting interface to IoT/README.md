@@ -18,7 +18,7 @@
 ![much-a image](https://github.com/MohammadYAmmar/Robot-arm-with-a-camera/blob/main/Algorithm:%20Connecting%20interface%20to%20IoT/%D8%B5%D9%88%D8%B1%D8%A9%20%D9%84%D9%84%D9%85%D8%AE%D8%B7%D8%B7%20%D8%A7%D9%84%D8%AA%D8%AF%D9%81%D9%82%D9%8A.png) 
 
 
-### <div dir="rtl">* من الممكن إستخدام أمر Ping للتأكد عن إن الجهاز متواجد ما قبل ذلك أيضًا </div>
+### <div dir="rtl">* من الممكن استخدام أمر Ping للتأكد عن إن الجهاز متواجد ما قبل ذلك أيضًا </div>
 
 
 
