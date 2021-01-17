@@ -23,7 +23,7 @@
 
 ## <div dir="rtl">والمتطلبات هي كما في الرسم التوضيحي (Diagram) سوف تكون عبارة عن الجهاز للمستخدم مثل أجهزة الحاسب الآلي أو عبر تطبيق بالهواتف الذكية متصلة بقاعدة البيانات والتي سوف يقرأ منها أجهزة ذراع التحكم لتنفيذ ما يرسل لها</div>
 
-![much-a image]() 
+![much-a image](https://github.com/MohammadYAmmar/Robot-arm-with-a-camera/blob/main/Algorithm:%20Connecting%20interface%20to%20IoT/Image%20of%20project%20diagram.png) 
 
 ## <div dir="rtl">عند الرغبة في تنفيذ ذلك برمجياً علينا تعديل العمليات التي سوف تحدث عن النقر على الزر المسؤول عن ذلك </div>
 
@@ -33,6 +33,11 @@
 
 ## <div dir="rtl">في برنامج سطح المكتب </div>
 ![much-a image]() 
+
+
+
+
+
 
 
 
