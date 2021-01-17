@@ -36,19 +36,20 @@
 
 
 ## <div dir="rtl">في برنامج سطح المكتب </div>
-`
-`
+`private void run_button_Click(object sender, EventArgs e)
+        {
+            /*
+             * Here the bot communication for transmission and motor movement will be included through HTTP commands
+             */
+        }`
 
 
+## <div dir="rtl">مصادر: </div>
 
-مصادر:
+## <div dir="rtl">1 - قالب الرسم التوضيحي </div>
 
-1 - قالب الرسم التوضيحي
 network/citrix.xml in program draw.io Diagrams
 
-2 - موقع تم استخدامع للصور
+## <div dir="rtl">2 - موقع تم استخدامه للصور</div>
+
 https://icons8.com/
-
-
-
-
