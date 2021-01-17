@@ -29,14 +29,24 @@
 
 ## <div dir="rtl">في الموقع الإلكتروني </div>
 
-![much-a image]() 
+`if (isset($_POST['run-submit'])) {
+	//Send commands to databases
+	echo("");			
+		}`
+
 
 ## <div dir="rtl">في برنامج سطح المكتب </div>
-![much-a image]() 
+`
+`
 
 
 
+مصصادر:
+1 - قالب الرسم التوضيحي
 
+
+2 - موقع تم استخدامع للصور
+https://icons8.com/
 
 
 
