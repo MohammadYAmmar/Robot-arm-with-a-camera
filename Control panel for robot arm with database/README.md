@@ -75,7 +75,17 @@ In this line, access to the database to read after fetch the resulting rows as a
 # Future work
 One of the additions to the site is to link the play button to communicate with the robot and to add a more beautiful form, use the JavaScript language to draw the movements of the six motors and the direction such as through canvas
 
-Soon, God willing, the next task I will do this program, but for Windows devices via the C# language, to learn more about dealing with these matters in an actual project, if it is published it will be in this repository 🔜
+Soon, God willing, the next task I will do this program, but for Windows devices via the C# language, to learn more about dealing with these matters in an actual project, if it is published it will be in this repository 🔜(Wait no more, this is the program: )
+
+#### <p> [Desktop program](https://github.com/MohammadYAmmar/A-control-panel-program-for-robot-arm-with-databases-for-Windows-devices-via-c-sharp)</p>
+
+Home page:
+
+![much-a image](https://github.com/MohammadYAmmar/A-control-panel-program-for-robot-arm-with-databases-for-Windows-devices-via-c-sharp/blob/main/Image%20to%20home%20page.png) 
+
+Database control page:
+
+![much-a image](https://github.com/MohammadYAmmar/A-control-panel-program-for-robot-arm-with-databases-for-Windows-devices-via-c-sharp/blob/main/Image%20to%20setup%20database.png)
 
 
 
