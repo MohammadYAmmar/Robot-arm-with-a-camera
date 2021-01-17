@@ -41,9 +41,10 @@
 
 
 
-مصصادر:
-1 - قالب الرسم التوضيحي
+مصادر:
 
+1 - قالب الرسم التوضيحي
+network/citrix.xml in program draw.io Diagrams
 
 2 - موقع تم استخدامع للصور
 https://icons8.com/
